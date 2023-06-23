@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://hydroroll.retrofor.space">
-        <img src="https://raw.githubusercontent.com/HydroRoll-Team/.github/main/profile/HydroRollBlue.png" height="128">
+        <img src="https://hydroroll.retrofor.space/HydroRollBlue.png" height="128">
       <h1 align="center">HydroRoll'水系</h1>
       <q>
         Affinity Rule Book 📖
