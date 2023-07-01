@@ -19,9 +19,9 @@
 
   |           项目           |        进度        |      备注    |
   | ------------------------ | ------------------ | ------------- |
-  | [HydroRollCore](https://github.com/HydroRoll-Team/HydroRollCore)            | :white_check_mark: |  |
-  | iamai.model.BM25         |         :x:        | |
-  | HydroRollCore.rules.coc7 | :white_check_mark: | |
-  | iamai.adapter.kook       |         :x:        | |
+  | [HydroRollCore](https://github.com/HydroRoll-Team/HydroRollCore)            | :arrow_backward: |  |
+  | iamai.model.BM25         |         :x:        | 检索模型 |
+  | HydroRollCore.rules.coc7 | :arrow_up_small: | 内置 coc7 规则书 |
+  | iamai.adapter.kook       |         :x:        | kook 适配器 |
 
 </div>
