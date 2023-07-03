@@ -16,11 +16,12 @@
     </a>
 </p>
 
+|           项目           |        进度        |      主导      |      备注      |
+| ------------------------ | ------------------ | -------------- | --------------- |
+| [HydroRollCore](https://github.com/HydroRoll-Team/HydroRollCore) | :arrow_backward: | HsiangNianian[^1] | 水系核心 |
+| iamai.model.BM25         |         :x:        | | BM25检索模型 |
+| HydroRollCore.rules.coc7 | :arrow_up_small: | HsiangNianian, Skyfall[^2] | 水系内置coc7规则包 |
+| iamai.adapter.kook       |         :x:        | HsiangNianian | Kook适配器 |
 
-  |           项目           |        进度        |      主导      |      备注      |
-  | ------------------------ | ------------------ | -------------- | --------------- |
-  | [HydroRollCore](https://github.com/HydroRoll-Team/HydroRollCore) | :arrow_backward: | [HsiangNianian](htts://github.com/HsiangNianian) | 水系核心 |
-  | iamai.model.BM25         |         :x:        | | BM25检索模型 |
-  | HydroRollCore.rules.coc7 | :arrow_up_small: | HsiangNianian, [Skyfall]() | 水系内置coc7规则包 |
-  | iamai.adapter.kook       |         :x:        | HsiangNianian | Kook适配器 |
-
+[^1]: htts://github.com/HsiangNianian
+[^2]: htts://github.com/skyfall114514   
