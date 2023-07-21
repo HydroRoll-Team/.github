@@ -20,9 +20,10 @@
 | ------------------------ | ------------------ | -------------- | --------------- |
 | [HydroRollCore](https://github.com/HydroRoll-Team/HydroRollCore) | Progress | HsiangNianian[^1] | 水系核心 |
 | iamai.model.BM25         |         Pending        | - | BM25检索模型 |
-| HydroRollCore.rules.coc7 | To-Do | HsiangNianian, Skyfall[^2] | 水系内置coc7规则包 |
-| [iamai.adapter.kook](https://github.com/retrofor/iamai/blob/master/packages/iamai-adapter-kook)       |        Done        | HsiangNianian | Kook适配器 |
-| [HydroRoll](https://github.com/HydroRoll-Team/HydroRoll) | Progress | HsiangNianian | 基于iamai的插件 |
+| HydroRollCore.rules.coc7 | To-Do | HsiangNianian[^1], Skyfall[^2] | 水系内置coc7规则包 |
+| [iamai.adapter.kook](https://github.com/retrofor/iamai/blob/master/packages/iamai-adapter-kook)       |        Done        | HsiangNianian[^1] | Kook适配器 |
+| [HydroRoll](https://github.com/HydroRoll-Team/HydroRoll) | Progress | HsiangNianian[^1] | 基于iamai的骰系插件 |
+| [iamai.adapter.console](https://github.com/retrofor/iamai/blob/master/packages/iamai-adapter-console)       |        Progress        | HsiangNianian[^1] | 终端适配器 |
 
 [^1]: htts://github.com/HsiangNianian
 [^2]: htts://github.com/skyfall114514   
