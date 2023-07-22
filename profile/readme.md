@@ -24,7 +24,7 @@
 | [iamai.adapter.kook](https://github.com/retrofor/iamai/blob/master/packages/iamai-adapter-kook)       |        Done        | HsiangNianian[^1] | Kook适配器 |
 | [HydroRoll](https://github.com/HydroRoll-Team/HydroRoll) | Progress | HsiangNianian[^1] | 基于iamai的骰系插件 |
 | [iamai.adapter.console](https://github.com/retrofor/iamai/blob/master/packages/iamai-adapter-console)       |        Progress        | HsiangNianian[^1] | 终端适配器 |
-| [HydroRoll.psi](https://github.com/HydroRoll-Team/psi) | Progress | HsiangNianian[^1] | 水系 reply 窗口 cli 语言 |
+| [HydroRoll.psi](https://github.com/HydroRoll-Team/psi) | Progress | HsiangNianian[^1] | 水系窗口 CLI 语言 |
 
 [^1]: htts://github.com/HsiangNianian
 [^2]: htts://github.com/skyfall114514   
