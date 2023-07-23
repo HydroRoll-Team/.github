@@ -44,5 +44,5 @@ HydroRoll / Structure
    :target: https://hydroroll.retrofor.space
 .. |structure_table| image:: https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/-8GQ3jezs4jjRVX5ZbACiuiSwmPbkzEdEQAyP2ednF0_table.svg
    :alt: Structure
-   :width: 1000
+   :width: 800
    :target: https://github.com/HydroRoll-Team/HydroRoll
