@@ -18,12 +18,12 @@ Structure
 
       <table align="center">
         <tr>
-          <td><img width="200" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_timeline.svg"></td>
-          <td><img width="200" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_issues.svg"></td>
+          <td><img width="150" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_timeline.svg"></td>
+          <td><img width="150" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_issues.svg"></td>
         </tr>
         <tr>
-          <td><img width="200" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_prs.svg"></td>
-          <td><img width="200" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_words.svg"></td>
+          <td><img width="150" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_prs.svg"></td>
+          <td><img width="150" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_words.svg"></td>
         </tr>
       </table>
 
