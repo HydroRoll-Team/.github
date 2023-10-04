@@ -5,7 +5,7 @@ Structure
 
     <div>
     <div align="left">
-       <img width=480 align="left" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/P3iLPoavAOE9FSLe1r5_jJObx8LljYhDBCDfkumyDY0_table.svg">
+       <img width=400 align="left" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/P3iLPoavAOE9FSLe1r5_jJObx8LljYhDBCDfkumyDY0_table.svg">
     </div>
     <div align"right">
        <img align="right" src="https://hydroroll.retrofor.space/HydroRollBlue.png" height="128">
