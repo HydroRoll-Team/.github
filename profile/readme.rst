@@ -55,17 +55,17 @@ Structure
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | *Project*                                                      | *Progress*     | *Leader*                                      | *Tips*                        | *Technology Stack*                                  |
 +================================================================+================+===============================================+===============================+=====================================================+
-| `HydroRollCore`_                                               | *In Progress*  | `HsiangNianian`_ , `白咕咕`_                  | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
+| `HydroRollCore`_                                               | |In Progress1| | `HsiangNianian`_ , `白咕咕`_                  | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRollCore.rules.coc`_                                     | *Todo*         | HsiangNianian , `Skyfall`_                    | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
+| `HydroRollCore.rules.coc`_                                     | |Todo|         | HsiangNianian , `Skyfall`_                    | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRoll`_                                                   | *In Progress*  | HsiangNianian                                 | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
+| `HydroRoll`_                                                   | |In Progress2| | HsiangNianian                                 | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `Psi`_                                                         | *In Progress*  | HsiangNianian , 白咕咕 , `kenichiLyon`_       | 水系窗口CLI语言,reply加载器   | ``Python`` ``reStructuredText`` ``Sphinx``          |
+| `Psi`_                                                         | |In Progress2| | HsiangNianian , 白咕咕 , `kenichiLyon`_       | 水系窗口CLI语言,reply加载器   | ``Python`` ``reStructuredText`` ``Sphinx``          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `OneRoll`_                                                     | *In Progress*  | HsiangNianian                                 | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
+| `OneRoll`_                                                     | |In Progress3| | HsiangNianian                                 | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRollCore.rules.thepool`_ [#]_                            | *Todo*         | HsiangNianian , `James V. West`_              |  水系内置规则包               |  ``Python`` ``LaTeX`` ``aiohttp``                   |
+| `HydroRollCore.rules.thepool`_ [#]_                            | |In Progress8| | HsiangNianian , `James V. West`_              |  水系内置规则包               |  ``Python`` ``LaTeX`` ``aiohttp``                   |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
@@ -89,3 +89,15 @@ Structure
    :width: 50
    :alt: HydroRoll logo
    :target: https://hydroroll.retrofor.space
+
+.. |Todo| image:: https://img.shields.io/badge/Todo-0%25-black
+.. |In Progress1| image:: https://img.shields.io/badge/In%20Progress-10%25-red
+.. |In Progress2| image:: https://img.shields.io/badge/In%20Progress-20%25-red
+.. |In Progress3| image:: https://img.shields.io/badge/In%20Progress-30%25-orange
+.. |In Progress4| image:: https://img.shields.io/badge/In%20Progress-40%25-orange
+.. |In Progress5| image:: https://img.shields.io/badge/In%20Progress-50%25-orange
+.. |In Progress6| image:: https://img.shields.io/badge/In%20Progress-60%25-orange
+.. |In Progress7| image:: https://img.shields.io/badge/In%20Progress-70%25-orange
+.. |In Progress8| image:: https://img.shields.io/badge/In%20Progress-80%25-yellow
+.. |In Progress9| image:: https://img.shields.io/badge/In%20Progress-90%25-yellow
+.. |Done| image:: https://img.shields.io/badge/Done-100%25-green
