@@ -11,21 +11,20 @@
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | *Project*                                                      | *Progress*     | *Leader*                                      | *Tips*                        | *Technology Stack*                                  |
 +================================================================+================+===============================================+===============================+=====================================================+
-| `HydroRollCore`_                                               | ``20%``        | `HsiangNianian`_ , `白咕咕`_                  | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
+| `HydroRollCore`_                                               | *In Progress*  | `HsiangNianian`_ , `白咕咕`_                  | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRollCore.rules.coc`_                                     | ``10%``        | `HsiangNianian`_ , `Skyfall`_                 | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
+| `HydroRollCore.rules.coc`_                                     | *Todo*         | HsiangNianian , `Skyfall`_                    | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRoll`_                                                   | ``20%``        | `HsiangNianian`_                              | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
+| `HydroRoll`_                                                   | *In Progress*  | HsiangNianian                                 | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `Psi`_                                                         | ``10%``        | `HsiangNianian`_ , `白咕咕`_ , `kenichiLyon`_ | 水系窗口 CLI 语言             | ``Python`` ``reStructuredText`` ``Sphinx``          |
+| `Psi`_                                                         | *In Progress*  | HsiangNianian , 白咕咕 , `kenichiLyon`_       | 水系窗口CLI语言,reply加载器   | ``Python`` ``reStructuredText`` ``Sphinx``          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `OneRoll`_                                                     | ``10%``        | `HsiangNianian`_                              | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
+| `OneRoll`_                                                     | *In Progress*  | HsiangNianian                                 | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| ref                                                            | ``40%``        |                                               |  水系扩展“池 [The Pool]”规则包|  ``Python`` ``LaTeX`` ``aiohttp`` ``Scrapy``        |
-|    `HydroRollCore.rules.thepool`                               |                |  `HsiangNianian`_ , `James V. West (原作)`    | 一个很自由但是可玩性很高的玩法|  ``TypeScript`` ``HTML`` ``HydroRollCore``          |
+| `HydroRollCore.rules.thepool`_                                 | *Todo*         | HsiangNianian , `James V. West (原作)`        |  水系扩展“池 [The Pool]”规则包|  ``Python`` ``LaTeX`` ``aiohttp`` ``Scrapy``        |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 
-.. .. _HydroRollCore.rules.thepool: https://github.com/HydroRoll-Team/HydroRoll/tree/main/tests/rules/The%20Pool
+.. _HydroRollCore.rules.thepool: https://github.com/HydroRoll-Team/HydroRoll/tree/main/tests/rules/The%20Pool
 .. _HydroRollCore.rules.coc: https://github.com/HydroRoll-Team
 .. _iamai.models.TfSimilarity: https://github.com/retrofor/iamai/tree/master/iamai/models/TfSimilarity
 .. _HydroRollCore: https://github.com/HydroRoll-Team/HydroRollCore
