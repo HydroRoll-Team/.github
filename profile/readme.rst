@@ -1,9 +1,25 @@
+HydroRoll / Structure
+-----
+|structure_table| 
+
+.. |HydroRoll logo| image:: https://hydroroll.retrofor.space/HydroRollBlue.png
+   :width: 50
+   :alt: HydroRoll logo
+   :target: https://hydroroll.retrofor.space
+.. |structure_table| image:: https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/-8GQ3jezs4jjRVX5ZbACiuiSwmPbkzEdEQAyP2ednF0_table.svg
+   :alt: Structure
+   :width: 800
+   :target: https://github.com/HydroRoll-Team/HydroRoll
+
+
+
 .. raw:: html
 
     <img align="right" src="https://hydroroll.retrofor.space/HydroRollBlue.png" height="128">
     <h1 align="right">HydroRoll'水系</h1>
     <div align="right">
-    <q>Affinity Rule Book 📖</q>
+        <q>Affinity Rule Book 📖</q>
+        <img src="
     </div>
 
 |image2| |image3| |image4|
@@ -47,17 +63,3 @@
    :target: https://github.com/HydroRoll-Team/support/issues/new/choose
 .. |image4| image:: https://img.shields.io/badge/❤-捐赠项目成为Sponsor-995599?style=flat-square&logoColor=red&labelColor=000000
    :target: https://jyunko.cn/images/wechatpay.jpg
-
-
-HydroRoll / Structure
------
-|structure_table| 
-
-.. |HydroRoll logo| image:: https://hydroroll.retrofor.space/HydroRollBlue.png
-   :width: 50
-   :alt: HydroRoll logo
-   :target: https://hydroroll.retrofor.space
-.. |structure_table| image:: https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/-8GQ3jezs4jjRVX5ZbACiuiSwmPbkzEdEQAyP2ednF0_table.svg
-   :alt: Structure
-   :width: 800
-   :target: https://github.com/HydroRoll-Team/HydroRoll
