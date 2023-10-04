@@ -91,13 +91,13 @@ Structure
    :target: https://hydroroll.retrofor.space
 
 .. |Todo| image:: https://img.shields.io/badge/Todo-0%25-black
-.. |In Progress1| image:: https://img.shields.io/badge/In%20Progress-10%25-red
-.. |In Progress2| image:: https://img.shields.io/badge/In%20Progress-20%25-red
-.. |In Progress3| image:: https://img.shields.io/badge/In%20Progress-30%25-orange
-.. |In Progress4| image:: https://img.shields.io/badge/In%20Progress-40%25-orange
-.. |In Progress5| image:: https://img.shields.io/badge/In%20Progress-50%25-orange
-.. |In Progress6| image:: https://img.shields.io/badge/In%20Progress-60%25-orange
-.. |In Progress7| image:: https://img.shields.io/badge/In%20Progress-70%25-orange
-.. |In Progress8| image:: https://img.shields.io/badge/In%20Progress-80%25-yellow
-.. |In Progress9| image:: https://img.shields.io/badge/In%20Progress-90%25-yellow
+.. |In Progress1| image:: https://img.shields.io/badge/Progress-10%25-red
+.. |In Progress2| image:: https://img.shields.io/badge/Progress-20%25-red
+.. |In Progress3| image:: https://img.shields.io/badge/Progress-30%25-orange
+.. |In Progress4| image:: https://img.shields.io/badge/Progress-40%25-orange
+.. |In Progress5| image:: https://img.shields.io/badge/Progress-50%25-orange
+.. |In Progress6| image:: https://img.shields.io/badge/Progress-60%25-orange
+.. |In Progress7| image:: https://img.shields.io/badge/Progress-70%25-orange
+.. |In Progress8| image:: https://img.shields.io/badge/Progress-80%25-yellow
+.. |In Progress9| image:: https://img.shields.io/badge/Progress-90%25-yellow
 .. |Done| image:: https://img.shields.io/badge/Done-100%25-green
