@@ -21,8 +21,10 @@
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `OneRoll`_                                                     | *In Progress*  | HsiangNianian                                 | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRollCore.rules.thepool`_                                 | *Todo*         | HsiangNianian , `James V. West (原作)`        |  水系扩展“池 [The Pool]”规则包|  ``Python`` ``LaTeX`` ``aiohttp`` ``Scrapy``        |
+| `HydroRollCore.rules.thepool`_ [#]_                            | *Todo*         | HsiangNianian , `James V. West`_              |  水系内置规则包               |  ``Python`` ``LaTeX`` ``aiohttp``                   |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
+
+.. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
 .. _HydroRollCore.rules.thepool: https://github.com/HydroRoll-Team/HydroRoll/tree/main/tests/rules/The%20Pool
 .. _HydroRollCore.rules.coc: https://github.com/HydroRoll-Team
@@ -36,6 +38,8 @@
 .. _白咕咕: https://github.com/baimianxiao
 .. _kenichiLyon: https://github.com/kenichiLyon
 .. _Skyfall: https://github.com/Skyfall114514
+
+.. _James V. West: https://www.jvwest.art/
 
 .. |image2| image:: https://img.shields.io/badge/前往论坛参与话题讨论-red.svg?style=flat-square&logo=data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8CAgL/CgoK/woKCv8GBgb/BgYG/woKCv8KCgr/AgIC/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/BgYG/0ZGRv9MTEz/JiYm/ygoKP9MTEz/RkZG/wYGBv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9ycnL/Li4u/1xcXP9eXl7/Li4u/3Jycv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP88PDz/cnJy/05OTv9OTk7/UFBQ/05OTv9wcHD/Pj4+/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Kioq/3Jycv9cXFz/TExM/05OTv9aWlr/cHBw/yoqKv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Pj4+/zg4OP+AgID/Pj4+/2ZmZv9oaGj/PDw8/4CAgP86Ojr/Pj4+/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/ywsLP9iYmL/enp6/zIyMv90dHT/dHR0/zAwMP98fHz/YmJi/ywsLP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9SUlL/PDw8/3Jycv9CQkL/UlJS/1RUVP9CQkL/cnJy/zw8PP9SUlL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/VFRU/yIiIv9aWlr/PDw8/zw8PP8+Pj7/PDw8/1hYWP8iIiL/VFRU/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/zQ0NP9CQkL/ZmZm/yIiIv9WVlb/WFhY/yIiIv9mZmb/QkJC/zY2Nv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9QUFD/BgYG/0RERP9KSkr/JCQk/yYmJv9KSkr/RERE/wgICP9QUFD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/CgoK/wICAv8KCgr/CgoK/wYGBv8GBgb/CgoK/woKCv8CAgL/CgoK/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==&labelColor=000000&logoWidth=20&logoColor=white
    :target: https://github.com/HydroRoll-Team/hydroroll/discussions
