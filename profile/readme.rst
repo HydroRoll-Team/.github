@@ -11,7 +11,7 @@ Structure
        <img align="right" src="https://hydroroll.retrofor.space/HydroRollBlue.png" height="128">
        <h1 align="right">HydroRoll'水系</h1>
        <div align="right">
-          <q>Affinity Rule Book 📖</q>
+          <q>Infinity  Rule Book 📖</q>
        </div>
 
       <h4 align="right">Recent activity</h4>
