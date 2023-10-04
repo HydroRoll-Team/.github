@@ -5,18 +5,18 @@ Structure
 
     <div>
     <div align="left">
-       <img width=500 align="left" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/P3iLPoavAOE9FSLe1r5_jJObx8LljYhDBCDfkumyDY0_table.svg">
+       <img width=350 align="left" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/P3iLPoavAOE9FSLe1r5_jJObx8LljYhDBCDfkumyDY0_table.svg">
     </div>
     <div align"right">
        <img align="right" src="https://hydroroll.retrofor.space/HydroRollBlue.png" height="128">
-       <h1>HydroRoll'水系</h1>
-       <div>
+       <h1 align="right">HydroRoll'水系</h1>
+       <div align="right">
           <q>Affinity Rule Book 📖</q>
        </div>
 
-      <h4>Recent activity</h4>
+      <h4 align="right">Recent activity</h4>
 
-      <table align="center">
+      <table align="right">
         <tr>
           <td><img width="150" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_timeline.svg"></td>
           <td><img width="150" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/recent-activity/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/7BYLLpLqD6yr5dPQ_eGyqUTTnWNev0EnFhadoN4FiPE_issues.svg"></td>
@@ -27,7 +27,7 @@ Structure
         </tr>
       </table>
 
-      <div align="center">
+      <div align="right">
          <a href="https://github.com/HydroRoll-Team/hydroroll/discussions">
             <img src="https://img.shields.io/badge/前往论坛参与话题讨论-red.svg?style=flat-square&amp;logo=data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8CAgL/CgoK/woKCv8GBgb/BgYG/woKCv8KCgr/AgIC/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/BgYG/0ZGRv9MTEz/JiYm/ygoKP9MTEz/RkZG/wYGBv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9ycnL/Li4u/1xcXP9eXl7/Li4u/3Jycv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP88PDz/cnJy/05OTv9OTk7/UFBQ/05OTv9wcHD/Pj4+/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Kioq/3Jycv9cXFz/TExM/05OTv9aWlr/cHBw/yoqKv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/Pj4+/zg4OP+AgID/Pj4+/2ZmZv9oaGj/PDw8/4CAgP86Ojr/Pj4+/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/ywsLP9iYmL/enp6/zIyMv90dHT/dHR0/zAwMP98fHz/YmJi/ywsLP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9SUlL/PDw8/3Jycv9CQkL/UlJS/1RUVP9CQkL/cnJy/zw8PP9SUlL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/VFRU/yIiIv9aWlr/PDw8/zw8PP8+Pj7/PDw8/1hYWP8iIiL/VFRU/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/zQ0NP9CQkL/ZmZm/yIiIv9WVlb/WFhY/yIiIv9mZmb/QkJC/zY2Nv8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9QUFD/BgYG/0RERP9KSkr/JCQk/yYmJv9KSkr/RERE/wgICP9QUFD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/CgoK/wICAv8KCgr/CgoK/wYGBv8GBgb/CgoK/woKCv8CAgL/CgoK/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==&amp;labelColor=000000&amp;logoWidth=20&amp;logoColor=white" alt="image2" />
          </a>
@@ -38,12 +38,14 @@ Structure
             <img src="https://img.shields.io/badge/❤-捐赠项目成为Sponsor-995599?style=flat-square&amp;logoColor=red&amp;labelColor=000000" alt="image4" />
          </a>
          <br />
-         <a aria-label="PYTHON version" href="https://pypi.org/project/hydroroll" target="blank">
-            <img src="https://img.shields.io/pypi/v/hydroroll?style=flat&label=HydroRoll&color=00000000" alt="pypi">
-         </a>
          <a aria-label="PYTHON version" href="https://pypi.org/project/hydrorollcore" target="blank">
             <img src="https://img.shields.io/pypi/v/hydrorollcore?style=flat&label=HydroRollCore&color=blue" alt="pypi">
          </a>
+        <br />
+         <a aria-label="PYTHON version" href="https://pypi.org/project/hydroroll" target="blank">
+            <img src="https://img.shields.io/pypi/v/hydroroll?style=flat&label=HydroRoll&color=00000000" alt="pypi">
+         </a>
+         <br />
          <a aria-label="PYTHON version" href="https://pypi.org/project/oneroll" target="blank">
             <img src="https://img.shields.io/pypi/v/oneroll?style=flat&label=OneRoll&color=red" alt="pypi">
          </a>
