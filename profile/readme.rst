@@ -1,3 +1,4 @@
+
 Structure
 -----
 
@@ -57,6 +58,10 @@ Structure
 +================================================================+================+===============================================+===============================+=====================================================+
 | `HydroRollCore.rules.coc`_                                     | |Todo|         | HsiangNianian , `Skyfall`_                    | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
+| `logshader`_                                                   | |In Progress1| | `HsiangNianian`_ , `白咕咕`_                  | 水系着色                      | ``Python`` ``TypeScript`` ``Vuetify`` ``Vue``       |
++----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
+| `deadlines`_                                                   | |In Progress1| | `HsiangNianian`_                              | 水系各类事件倒计时            | ``Python`` ``Jykell``                               |
++----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `HydroRollCore`_                                               | |In Progress1| | `HsiangNianian`_ , `白咕咕`_                  | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `HydroRoll`_                                                   | |In Progress2| | HsiangNianian                                 | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
@@ -77,6 +82,8 @@ Structure
 .. _HydroRoll: https://github.com/HydroRoll-Team/HydroRoll
 .. _OneRoll: https://github.com/HydroRoll-Team/DiceParser
 .. _Psi: https://github.com/HydroRoll-Team/psi
+.. _logshader: https://github.com/HydroRoll-Team/logshader
+.. _deadlines: https://github.com/HydroRoll-Team/deadlines
 
 .. _HsiangNianian: https://github.com/HsiangNianian
 .. _白咕咕: https://github.com/baimianxiao
