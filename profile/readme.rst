@@ -38,10 +38,6 @@ Structure
          <a href="https://jyunko.cn/images/wechatpay.jpg">
             <img src="https://img.shields.io/badge/❤-捐赠项目成为Sponsor-995599?style=flat-square&amp;logoColor=red&amp;labelColor=000000&color=yellow" alt="image4" />
          </a>
-         <br />
-         <a aria-label="PYTHON version" href="https://pypi.org/project/hydrorollcore" target="blank">
-            <img src="https://img.shields.io/pypi/v/hydrorollcore?style=flat&label=HydroRollCore&color=green" alt="pypi">
-         </a>
         <br />
          <a aria-label="PYTHON version" href="https://pypi.org/project/hydroroll" target="blank">
             <img src="https://img.shields.io/pypi/v/hydroroll?style=flat&label=HydroRoll&color=blue" alt="pypi">
@@ -50,19 +46,23 @@ Structure
          <a aria-label="PYTHON version" href="https://pypi.org/project/oneroll" target="blank">
             <img src="https://img.shields.io/pypi/v/oneroll?style=flat&label=OneRoll&color=purple" alt="pypi">
          </a>
+         <br />
+         <a aria-label="PYTHON version" href="https://pypi.org/project/infini" target="blank">
+            <img src="https://img.shields.io/pypi/v/infini?style=flat&label=INFINI&color=green" alt="pypi">
+         </a>
       </div>
     </div>
 
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | *Project*                                                      | *Progress*     | *Leader*                                      | *Tips*                        | *Technology Stack*                                  |
 +================================================================+================+===============================================+===============================+=====================================================+
-| `HydroRollCore.rules.coc`_                                     | |Todo|         | HsiangNianian , `Skyfall`_                    | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
+| `infini.rules.coc`_                                            | |Todo|         | HsiangNianian , `Skyfall`_                    | 水系内置coc规则包             | ``Python`` ``TypeScript`` ``Flask``                 |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `logshader`_                                                   | |In Progress1| | HsiangNianian , `白咕咕`_                     | 水系着色                      | ``Python`` ``TypeScript`` ``Vuetify`` ``Vue``       |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `deadlines`_                                                   | |In Progress1| | HsiangNianian                                 | 水系各类事件倒计时            | ``Python`` ``Jykell``                               |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRollCore`_                                               | |In Progress1| | HsiangNianian, 白咕咕, `苏向夜`_              | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
+| `infini`_                                                      | |In Progress1| | HsiangNianian, 白咕咕, `苏向夜`_              | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `HydroRoll`_                                                   | |In Progress2| | HsiangNianian                                 | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
@@ -70,15 +70,15 @@ Structure
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `OneRoll`_                                                     | |In Progress3| | HsiangNianian                                 | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRollCore.rules.thepool`_ [#]_                            | |In Progress8| | HsiangNianian , `James V. West`_              |  水系内置规则包               |  ``Python`` ``LaTeX`` ``aiohttp``                   |
+| `infini.rules.thepool`_ [#]_                                   | |In Progress8| | HsiangNianian , `James V. West`_              |  水系内置规则包               |  ``Python`` ``LaTeX`` ``aiohttp``                   |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
-.. _HydroRollCore.rules.thepool: https://github.com/HydroRoll-Team/HydroRoll/tree/main/tests/rules/The%20Pool
-.. _HydroRollCore.rules.coc: https://github.com/HydroRoll-Team
+.. _infini.rules.thepool: https://github.com/HydroRoll-Team/HydroRoll/tree/main/tests/rules/The%20Pool
+.. _infini.rules.coc: https://github.com/HydroRoll-Team
 .. _iamai.models.TfSimilarity: https://github.com/retrofor/iamai/tree/master/iamai/models/TfSimilarity
-.. _HydroRollCore: https://github.com/HydroRoll-Team/HydroRollCore
+.. _infini: https://github.com/HydroRoll-Team/infini
 .. _HydroRoll: https://github.com/HydroRoll-Team/HydroRoll
 .. _OneRoll: https://github.com/HydroRoll-Team/DiceParser
 .. _Psi: https://github.com/HydroRoll-Team/psi
