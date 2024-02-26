@@ -85,7 +85,7 @@ Structure
 .. _infini: https://github.com/HydroRoll-Team/infini
 .. _HydroRoll: https://github.com/HydroRoll-Team/HydroRoll
 .. _OneRoll: https://github.com/HydroRoll-Team/DiceParser
-.. _nivis: https://github.com/HydroRoll-Team/nivis
+.. _nivis: https://github.com/HydroRoll-Team/nivis-python
 .. _logshader: https://github.com/HydroRoll-Team/logshader
 .. _deadlines: https://github.com/HydroRoll-Team/deadlines
 
