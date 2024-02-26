@@ -68,9 +68,9 @@ Structure
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `infini`_                                                      | |In Progress9| | HsiangNianian, 白咕咕, `苏向夜`_              | 水系核心                      | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `HydroRoll`_                                                   | |In Progress2| | HsiangNianian                                 | 基于iamai的骰系插件           | ``Python`` ``TypeScript`` ``Flask`` ``nextjs``      |
+| `HydroRoll`_                                                   | |In Progress2| | HsiangNianian                                 | 基于iamai的骰系插件           | ``Rust`` ``Python`` ``Vue`` ``Pyo3`` ``Cpython``    |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `Psi`_                                                         | |In Progress2| | HsiangNianian , 白咕咕                        | 水系窗口CLI语言,reply加载器   | ``Python`` ``reStructuredText`` ``Sphinx``          |
+| `nivis`_                                                       | |In Progress2| | HsiangNianian                                 | 水系窗口CLI语言, reply加载器  | ``Python`` ``Rust`` ``Sphinx`` ``Pyo3``             |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 | `OneRoll`_                                                     | |In Progress3| | HsiangNianian                                 | 骰点表达式解析库              | ``Python`` ``Cpp`` ``AST``                          |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
@@ -85,7 +85,7 @@ Structure
 .. _infini: https://github.com/HydroRoll-Team/infini
 .. _HydroRoll: https://github.com/HydroRoll-Team/HydroRoll
 .. _OneRoll: https://github.com/HydroRoll-Team/DiceParser
-.. _Psi: https://github.com/HydroRoll-Team/psi
+.. _nivis: https://github.com/HydroRoll-Team/nivis
 .. _logshader: https://github.com/HydroRoll-Team/logshader
 .. _deadlines: https://github.com/HydroRoll-Team/deadlines
 
