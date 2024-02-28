@@ -40,7 +40,7 @@ Structure
          </a>
         <br />
          <a aria-label="PYTHON version" href="https://pypi.org/project/hydro_roll" target="blank">
-            <img src="https://img.shields.io/pypi/v/hydroroll?style=flat&label=HydroRoll&color=blue" alt="pypi">
+            <img src="https://img.shields.io/pypi/v/hydro_roll?style=flat&label=HydroRoll&color=blue" alt="pypi">
          </a>
          <br />
          <a aria-label="PYTHON version" href="https://pypi.org/project/oneroll" target="blank">
