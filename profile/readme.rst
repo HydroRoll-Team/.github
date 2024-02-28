@@ -39,7 +39,7 @@ Structure
             <img src="https://img.shields.io/badge/❤-捐赠项目成为Sponsor-995599?style=flat-square&amp;logoColor=red&amp;labelColor=000000&color=yellow" alt="image4" />
          </a>
         <br />
-         <a aria-label="PYTHON version" href="https://pypi.org/project/hydroroll" target="blank">
+         <a aria-label="PYTHON version" href="https://pypi.org/project/hydro_roll" target="blank">
             <img src="https://img.shields.io/pypi/v/hydroroll?style=flat&label=HydroRoll&color=blue" alt="pypi">
          </a>
          <br />
