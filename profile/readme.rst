@@ -69,17 +69,17 @@ Structure
 -------
 
 Steps::
-        1. 标准、约定式与核心工具, ddl: 2024-07-14
-        2. SDK、与下游生态, ddl: 2025-
+        1. 标准与约定式, ddl: 2024-07-14
+        2. SDK与下游生态, ddl: 2025-
 
-标准、约定式与核心工具
+标准与约定式
 ---------------------
 
 :HydroRollCore: |In Progress3| 水系核心 `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
 :infini: |In Progress9| 轻量的文本输入输出流框架 `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
 :ipm(-server): |In Progress8| infini 包管理器与官方镜像站点 `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
 
-SDK、与下游生态
+SDK与下游生态
 ---------------
 
 :HydroRoll: |Todo| 骰系制作 SDK `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
