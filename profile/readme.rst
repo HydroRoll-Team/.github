@@ -73,23 +73,25 @@ Structure
 | `logshader`_                                                   | |In Progress1| | HsiangNianian                                 | 水系跑团日志着色器            |  ``Vue`` ``TypeScript`` ``Python``                  |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 
-RoadMap
+路线图
 -------
 
-Steps: 1. Standardrs & Distribution, 2. Downstream Ecology.
+Steps::
+        1. 标准、约定式与核心工具
+        2. SDK、与下游生态
 
-Standards
----------
+标准、约定式与核心工具
+---------------------
 
-:HydroRollCore: |In Progress3| 水系核心
-:infini: |In Progress9| 轻量的文本输入输出流框架
-:ipm(-server): |In Progress8| infini 包管理器与官方镜像站点
+:HydroRollCore: |In Progress3| 水系核心 `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
+:infini: |In Progress9| 轻量的文本输入输出流框架 `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
+:ipm(-server): |In Progress8| infini 包管理器与官方镜像站点 `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
 
-Downstream Ecology
-------------------
+SDK、与下游生态
+---------------
 
-:HydroRoll: |Todo| 骰系制作 SDK
-:nivis(python): |Todo| nivis 脚本语言的 Python 版本
+:HydroRoll: |Todo| 骰系制作 SDK `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
+:nivis(python): |Todo| nivis 脚本语言的 Python 版本 `[源码] <https://github.com/HydroRoll-Team/nivis>`_ `[文档] <https://nivis.hydroroll.team>`_
 
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
