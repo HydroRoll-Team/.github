@@ -68,22 +68,35 @@ Structure
 路线图
 -------
 
-Steps::
+:Steps:
         1. 标准与约定式, ddl: 2024-07-14
         2. SDK与下游生态, ddl: 2025-
 
 标准与约定式
 ---------------------
 
-:HydroRollCore: |In Progress3| 水系核心 `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
-:infini: |In Progress9| 轻量的文本输入输出流框架 `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
-:ipm(-server): |In Progress8| infini 包管理器与官方镜像站点 `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
+HydroRollCore |In Progress3| `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
+
+    水系核心（HydroRollCore）| 去中心化解决方案 | 水系标准骰系开发前置 | 规则书编写工具
+
+infini |In Progress9| `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
+
+    Infini Text Input/Output Stream Framework
+
+ipm(-server) |In Progress8|  `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
+
+    Infini Package Manager & Official ipm Simple Server.
 
 SDK与下游生态
 ---------------
 
-:HydroRoll: |Todo| 骰系制作 SDK `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
-:nivis(python): |Todo| nivis 脚本语言的 Python 版本 `[源码] <https://github.com/HydroRoll-Team/nivis>`_ `[文档] <https://nivis.hydroroll.team>`_
+HydroRoll |Todo| `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
+
+    跨平台、多模态、高度自定义的骰系开发框架 | “如何更好的为冷门规则书做适配”？| “如何更好的实现人机交互？”
+
+nivis(python) |Todo| `[源码] <https://github.com/HydroRoll-Team/nivis-python>`_ `[文档] <https://nivis.hydroroll.team>`_
+
+    An embedded cli language | Light-weight version of nivis-lang.
 
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
