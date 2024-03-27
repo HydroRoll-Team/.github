@@ -65,36 +65,44 @@ Structure
 | `logshader`_                                                   | |In Progress1| | HsiangNianian                                 | 水系跑团日志着色器            |  ``Vue`` ``TypeScript`` ``Python``                  |
 +----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
 
+----
+
 路线图
--------
+------
 
-:Steps:
-        1. 标准与约定式, ddl: 2024-07-14
-        2. SDK与下游生态, ddl: 2025-
+作为 *(T)TRPG* 方面约定式的提出者与去中心化进程的推动者, 水系(组织)首先是非营利性的, 其次作为基金会的形式存在, 开发进程大致分为两个阶段::
 
-标准与约定式
----------------------
+1. 提出标准
 
-HydroRollCore |In Progress3| `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
+    此阶段需要提出诸多新概念, 例如世界主、规则包、通用规则包标准以及一系列约定新骰系制作与骰系架构重写的参考方案等。在标准的提出以后, 应当为标准制作相关的核心工具 —— *HydroRollCore*。这部分主要面向规则书的作者以及需要重构骰系架构的开发者。
+
+2. 完善下游生态
+
+    在提出标准以及给出核心工具以后, 应当提供面向更基层的开发者的开发工具 *SDK* —— *HydroRoll*。这部分主要面向想要从零开始搭建符合水系标准的骰系的下游开发者。
+
+标准与约定式 - DDL(`2024-07-14 <>`_)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+|In Progress3| *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
 
     水系核心（HydroRollCore）| 去中心化解决方案 | 水系标准骰系开发前置 | 规则书编写工具
 
-infini |In Progress9| `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
+|In Progress9| *infini* `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
 
     Infini Text Input/Output Stream Framework
 
-ipm(-server) |In Progress8|  `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
+|In Progress8| *ipm(-server)* `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
 
     Infini Package Manager & Official ipm Simple Server.
 
-SDK与下游生态
----------------
+SDK与下游生态 - DDL(`2025-??-?? <>`_)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-HydroRoll |Todo| `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
+|Todo| *HydroRoll* `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
 
     跨平台、多模态、高度自定义的骰系开发框架 | “如何更好的为冷门规则书做适配”？| “如何更好的实现人机交互？”
 
-nivis(python) |Todo| `[源码] <https://github.com/HydroRoll-Team/nivis-python>`_ `[文档] <https://nivis.hydroroll.team>`_
+|Todo| *nivis(python)* `[源码] <https://github.com/HydroRoll-Team/nivis-python>`_ `[文档] <https://nivis.hydroroll.team>`_
 
     An embedded cli language | Light-weight version of nivis-lang.
 
