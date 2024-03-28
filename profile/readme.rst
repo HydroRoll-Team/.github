@@ -106,6 +106,10 @@ SDK与下游生态 - DDL(`2025-??-?? <>`_)
 
     An embedded cli language | Light-weight version of nivis-lang.
 
+|Todo| *example-hydrogen* `[源码] <https://github.com/HydroRoll-Team/example-hydrogen>`_ 
+
+    水系官方骰系示例: 氢
+
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
 .. _nivis-python: https://github.com/HydroRoll-Team/nivis
