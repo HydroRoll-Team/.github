@@ -102,9 +102,9 @@ SDK与下游生态 - DDL(`2025-??-?? <>`_)
 
     跨平台、多模态、高度自定义的骰系开发框架 | “如何更好的为冷门规则书做适配”？| “如何更好的实现人机交互？”
 
-|Todo| *nivis(python)* `[源码] <https://github.com/HydroRoll-Team/nivis-python>`_ `[文档] <https://nivis.hydroroll.team>`_
+|Todo| *TRPGNivis* `[源码] <https://github.com/HydroRoll-Team/TRPGNivis>`_ `[文档] <https://nivis.hydroroll.team>`_
 
-    An embedded cli language | Light-weight version of nivis-lang.
+    Nivis Module for TRPG. | 使用 Nivis 语言编写的 TRPG 库。
 
 |Todo| *example-hydrogen* `[源码] <https://github.com/HydroRoll-Team/example-hydrogen>`_ 
 
@@ -112,7 +112,7 @@ SDK与下游生态 - DDL(`2025-??-?? <>`_)
 
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
-.. _nivis-python: https://github.com/HydroRoll-Team/nivis
+.. _trpgnivis: https://github.com/HydroRoll-Team/TRPGNivis
 .. _official-site: https://hydroroll.team
 .. _ipm: https://github.com/HydroRoll-Team/ipm
 .. _ipm-server: https://github.com/HydroRoll-Team/ipm-server
@@ -135,10 +135,6 @@ SDK与下游生态 - DDL(`2025-??-?? <>`_)
 
 .. _James V. West: https://www.jvwest.art/
 
-.. |HydroRoll logo| image:: https://hydroroll.retrofor.space/HydroRollBlue.png
-   :width: 50
-   :alt: HydroRoll logo
-   :target: https://hydroroll.retrofor.space
 
 .. |Todo| image:: https://img.shields.io/badge/Todo-0%25-black
 .. |In Progress1| image:: https://img.shields.io/badge/Progress-10%25-red
