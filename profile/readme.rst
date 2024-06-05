@@ -83,7 +83,7 @@ Structure
 标准与约定式 - DDL(`2024-07-14 <>`_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|In Progress3| *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroll.team>`_
+|In Progress3| *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroroll.team>`_
 
     水系核心（HydroRollCore）| 去中心化解决方案 | 水系标准骰系开发前置 | 规则书编写工具
 
