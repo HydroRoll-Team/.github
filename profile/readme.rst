@@ -35,6 +35,7 @@ Structure
          <a href="https://jyunko.cn/images/wechatpay.jpg">
             <img src="https://img.shields.io/badge/❤-捐赠项目-995599?style=flat-square&amp;logoColor=red&amp;labelColor=000000&color=yellow" alt="image4" />
          </a>
+         <br />
          <a aria-label="PYTHON version" href="https://pypi.org/project/hydro_roll_core" target="blank">
             <img src="https://img.shields.io/pypi/v/hydro_roll_core?style=flat&label=HydroRollCore&color=blue" alt="pypi">
          </a>
