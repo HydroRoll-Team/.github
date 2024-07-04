@@ -89,7 +89,7 @@ Structure
 
 |In Progress3| *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroroll.team>`_
 
-    水系核心（HydroRollCore）| 去中心化解决方案 | 水系标准骰系开发前置 | 规则书编写工具
+    水系核心（HydroRollCore）|  事件输入输出流 | 水系标准骰系开发前置 | 规则书编写工具
 
 |In Progress9| *infini* `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
 
