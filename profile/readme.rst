@@ -18,7 +18,7 @@ Structure
        <img width=380 align="left" src="https://images.repography.com/39938419/HydroRoll-Team/HydroRoll/structure/ZbjPFFiNYq0UR3cTqEwQHLzqWSn3SeO30n9Nk3SwmVU/P3iLPoavAOE9FSLe1r5_jJObx8LljYhDBCDfkumyDY0_table.svg">
     </div>
     <div align"right">
-       <img align="right" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HydroRoll-Team/HydroRoll/main/site/src/assets/image/logo.png" height="128">
+       <img align="right" src="https://files.hydroroll.team/hotlink-ok/files/image/logo.png" height="128">
        <h1 align="right">HydroRoll'水系</h1>
        <div align="right">
           <q>Infinity  Rule Book 📖</q>
