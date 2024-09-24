@@ -93,6 +93,8 @@ Structure
 
     在提出标准以及给出核心工具以后, 应当提供面向更基层的开发者的开发工具 *SDK* —— *HydroRoll*。这部分主要面向想要从零开始搭建符合水系标准的骰系的下游开发者。
 
+----
+
 标准与约定式 - DDL(`2024-07-14 <#>`_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -107,6 +109,8 @@ Structure
 |In Progress8| *ipm(-server)* `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
 
     Infini Package Manager & Official ipm Simple Server.
+
+----
 
 SDK与下游生态 - DDL(`2025-??-?? <#>`_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
