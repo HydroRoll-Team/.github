@@ -88,19 +88,19 @@ Structure
     * - |todo|
       - `lib.rules.coc`_
       - HsiangNianian
-      - 水系内置 coc 规则包
+      - 水系内置 coc 规则包 :sup:`WIP`
       - ``Rust`` ``LaTeX``
       - 
     * - |todo|
       - `lib.rules.thepool`_ [#]_
       - HsiangNianian , `James V. West`_
-      - 水系内置规则包
+      - 水系内置规则包 :sup:`WIP`
       - ``Rust`` ``LaTeX``
       -
     * - |In Progress4|
       - `official-site`_
       - HsiangNianian, `白咕咕`_
-      - 水系官网
+      - 水系官网 :sup:`WIP`
       - ``Vue`` ``TypeScript``
       -
     * - |In Progress1|
@@ -121,7 +121,7 @@ Structure
       - Project
       - Description
     * - |In Progress3|
-      - *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroroll.team>`_
+      - *HydroRollCore* :sup:`WIP` `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroroll.team>`_
       - 水系核心（HydroRollCore） | 事件输入输出流 | 水系标准骰系开发前置 | 规则书编写工具
     * - |In Progress9|
       - *infini* `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
@@ -141,13 +141,13 @@ Structure
       - Project
       - Description
     * - |Todo|
-      - *HydroRoll* `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
+      - *HydroRoll* :sup:`WIP` `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
       - 跨平台、多模态、高度自定义的骰系开发框架 | “如何更好地为冷门规则书做适配？” | “如何更好地实现人机交互？”
     * - |Todo|
-      - *TRPGNivis* `[源码] <https://github.com/HydroRoll-Team/TRPGNivis>`_ `[文档] <https://nivis.hydroroll.team>`_
+      - *TRPGNivis* :sup:`WIP` `[源码] <https://github.com/HydroRoll-Team/TRPGNivis>`_ `[文档] <https://nivis.hydroroll.team>`_
       - Nivis Module for TRPG. | 使用 Nivis 语言编写的 TRPG 库。
     * - |Todo|
-      - *example-hydrogen* `[源码] <https://github.com/HydroRoll-Team/example-hydrogen>`_
+      - *example-hydrogen* :sup:`WIP` `[源码] <https://github.com/HydroRoll-Team/example-hydrogen>`_
       - 水系官方骰系示例: 氢
 
 
