@@ -80,31 +80,26 @@ Structure
       - Leader
       - Tips
       - Technology Stack
-      - Remark
     * - |todo|
       - `lib.rules.coc`_
       - HsiangNianian
       - 水系内置 coc 规则包
       - ``Rust`` ``LaTeX``
-      - 
     * - |todo|
       - `lib.rules.thepool`_ [#]_
       - HsiangNianian , `James V. West`_
       - 水系内置规则包
       - ``Rust`` ``LaTeX``
-      - 
     * - |In Progress4|
       - `official-site`_
       - HsiangNianian, `白咕咕`_
       - 水系官网
       - ``Vue`` ``TypeScript``
-      - 
     * - |In Progress1|
       - `logshader`_
       - HsiangNianian
       - 水系跑团日志着色器
       - ``Vue`` ``WASM`` ``Rust``
-      - 
 
 ----
 
