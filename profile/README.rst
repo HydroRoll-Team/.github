@@ -88,7 +88,7 @@ Structure
     * - |todo|
       - `lib.rules.coc`_
       - HsiangNianian
-      - 水系内置 coc 规则包 :sup:`WIP`
+      - 水系内置规则包 :sup:`WIP`
       - ``Rust`` ``LaTeX``
       - 
     * - |todo|
