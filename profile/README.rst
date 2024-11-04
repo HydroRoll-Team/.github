@@ -65,67 +65,85 @@ Structure
          </a>
       </div>
     </div>
+    <br />
+    <br />
 
-+----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| *Project*                                                      | *Progress*     | *Leader*                                      | *Tips*                        | *Technology Stack*                                  |
-+================================================================+================+===============================================+===============================+=====================================================+
-| `lib.rules.coc`_                                               | |todo|         | HsiangNianian                                 | 水系内置 coc 规则包           | ``Rust`` ``LaTeX``                                  |
-+----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `lib.rules.thepool`_ [#]_                                      | |todo|         | HsiangNianian , `James V. West`_              | 水系内置规则包                |  ``Rust`` ``LaTeX``                                 |
-+----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `official-site`_                                               | |In Progress4| | HsiangNianian, `白咕咕`_                      | 水系官网                      | ``Vue`` ``TypeScript``                              |
-+----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
-| `logshader`_                                                   | |In Progress1| | HsiangNianian                                 | 水系跑团日志着色器            |  ``Vue`` ``WASM`` ``Rust``                          |
-+----------------------------------------------------------------+----------------+-----------------------------------------------+-------------------------------+-----------------------------------------------------+
+.. list-table:: Project Progress
+    :widths: 20 10 20 15 25 10
+    :header-rows: 1
+    :align: center
 
-----
-
-路线图
-------
-
-作为 *(T)TRPG* 方面约定式的提出者与去中心化进程的推动者, 水系(组织)首先是非营利性的, 其次作为协会的形式存在(我们非常欢迎骰系作者加入水系一起完善标准), 开发进程大致分为两个阶段::
-
-1. 提出标准
-
-    此阶段需要提出诸多新概念, 例如世界主、规则包、通用规则包标准以及一系列约定新骰系制作与骰系架构重写的参考方案等。在标准的提出以后, 应当为标准制作相关的核心工具 —— *HydroRollCore*、 *infini* 等。这部分主要面向规则书的作者以及需要重构骰系架构的开发者。
-
-2. 完善下游生态
-
-    在提出标准以及给出核心工具以后, 应当提供面向更基层的开发者的开发工具 *SDK* —— *HydroRoll*。这部分主要面向想要从零开始搭建符合水系标准的骰系的下游开发者。
-
-----
-
-标准与约定式 - DDL(`2024-07-14 <#>`_)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-|In Progress3| *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroroll.team>`_
-
-    水系核心（HydroRollCore）|  事件输入输出流 | 水系标准骰系开发前置 | 规则书编写工具
-
-|In Progress9| *infini* `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
-
-    Infini Text Input/Output Stream Framework
-
-|In Progress8| *ipm(-server)* `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_ 
-
-    Infini Package Manager & Official ipm Simple Server.
+    * - Project
+      - Progress
+      - Leader
+      - Tips
+      - Technology Stack
+      - Remark
+    * - `lib.rules.coc`_
+      - |todo|
+      - HsiangNianian
+      - 水系内置 coc 规则包
+      - ``Rust`` ``LaTeX``
+      - 
+    * - `lib.rules.thepool`_ [#]_
+      - |todo|
+      - HsiangNianian , `James V. West`_
+      - 水系内置规则包
+      - ``Rust`` ``LaTeX``
+      - 
+    * - `official-site`_
+      - |In Progress4|
+      - HsiangNianian, `白咕咕`_
+      - 水系官网
+      - ``Vue`` ``TypeScript``
+      - 
+    * - `logshader`_
+      - |In Progress1|
+      - HsiangNianian
+      - 水系跑团日志着色器
+      - ``Vue`` ``WASM`` ``Rust``
+      - 
 
 ----
 
-SDK与下游生态 - DDL(`2025-??-?? <#>`_)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. list-table:: HydroRoll Projects - Standard & Conventions (DDL `2024-07-14 <#>`_)
+    :widths: 10 20 50
+    :header-rows: 1
+    :align: center
 
-|Todo| *HydroRoll* `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
+    * - Status
+      - Project
+      - Description
+    * - |In Progress3|
+      - *HydroRollCore* `[源码] <https://github.com/HydroRoll-Team/HydroRollCore>`_ `[文档] <https://core.hydroroll.team>`_
+      - 水系核心（HydroRollCore） | 事件输入输出流 | 水系标准骰系开发前置 | 规则书编写工具
+    * - |In Progress9|
+      - *infini* `[源码] <https://github.com/HydroRoll-Team/infini>`_ `[文档] <https://infini.hydroroll.team>`_
+      - Infini Text Input/Output Stream Framework
+    * - |In Progress8|
+      - *ipm(-server)* `[源码(ipm)] <https://github.com/HydroRoll-Team/ipm>`_ `[文档(ipm)] <https://ipm.hydroroll.team>`_ `[镜像站点] <https://ipm.hydroroll.team/index>`_
+      - Infini Package Manager & Official ipm Simple Server
 
-    跨平台、多模态、高度自定义的骰系开发框架 | “如何更好的为冷门规则书做适配”？| “如何更好的实现人机交互？”
+----
 
-|Todo| *TRPGNivis* `[源码] <https://github.com/HydroRoll-Team/TRPGNivis>`_ `[文档] <https://nivis.hydroroll.team>`_
+.. list-table:: HydroRoll Projects - SDK & Downstream Ecosystem (DDL `2025-??-?? <#>`_)
+    :widths: 10 20 50
+    :header-rows: 1
+    :align: center
 
-    Nivis Module for TRPG. | 使用 Nivis 语言编写的 TRPG 库。
+    * - Status
+      - Project
+      - Description
+    * - |Todo|
+      - *HydroRoll* `[源码] <https://github.com/HydroRoll-Team/HydroRoll>`_ `[文档] <https://docs.hydroroll.team>`_
+      - 跨平台、多模态、高度自定义的骰系开发框架 | “如何更好地为冷门规则书做适配？” | “如何更好地实现人机交互？”
+    * - |Todo|
+      - *TRPGNivis* `[源码] <https://github.com/HydroRoll-Team/TRPGNivis>`_ `[文档] <https://nivis.hydroroll.team>`_
+      - Nivis Module for TRPG. | 使用 Nivis 语言编写的 TRPG 库。
+    * - |Todo|
+      - *example-hydrogen* `[源码] <https://github.com/HydroRoll-Team/example-hydrogen>`_
+      - 水系官方骰系示例: 氢
 
-|Todo| *example-hydrogen* `[源码] <https://github.com/HydroRoll-Team/example-hydrogen>`_ 
-
-    水系官方骰系示例: 氢
 
 .. [#] https://static1.squarespace.com/static/5fb8dea7e3c03570324fa66f/t/6045429eaf4b68161de78653/1615151776787/ThePool_digest_v3_print.pdf
 
