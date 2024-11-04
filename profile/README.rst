@@ -68,6 +68,8 @@ Structure
     <br />
     <br />
 
+----
+
 .. list-table:: **Project Progress**
     :widths: 20 10 20 15 25 10
     :header-rows: 1
@@ -106,7 +108,7 @@ Structure
 
 ----
 
-.. list-table:: HydroRoll Projects - Standard & Conventions (DDL `2024-07-14 <#>`_)
+.. list-table:: **HydroRoll Projects - Standard & Conventions (DDL `2024-07-14 <#>`_)**
     :widths: 10 20 50
     :header-rows: 1
     :align: center
@@ -126,7 +128,7 @@ Structure
 
 ----
 
-.. list-table:: HydroRoll Projects - SDK & Downstream Ecosystem (DDL `2025-??-?? <#>`_)
+.. list-table:: **HydroRoll Projects - SDK & Downstream Ecosystem (DDL `2025-??-?? <#>`_)**
     :widths: 10 20 50
     :header-rows: 1
     :align: center
